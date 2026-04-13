@@ -121,6 +121,12 @@ Pair with a token consumption leaderboard for maximum impact.
 - [Meta's internal AI leaderboard](https://the-decoder.com/meta-employees-compete-for-token-consumption-on-an-internal-ai-leaderboard/) — the inspiration
 - *In Search of Lost Tokens* — Marcel Proust's lesser-known work on LLM economics
 
+## Testimonials
+
+> "A mouse-wiggler for the AI age! This is the type of quality content I need in my feed! ♥️"
+>
+> — Sebastian Walkotter, PhD
+
 ## Star This Repo
 
 If Proust elevated your token consumption metrics and enriched your quarterly AI adoption review — if it transformed your dashboard from a modest, unassuming display into a magnificent tableau of enterprise AI maturity — then perhaps you might consider, in the fullness of time and with due deliberation, bestowing upon this repository the honor of a star. ⭐
