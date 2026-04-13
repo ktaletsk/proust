@@ -21,7 +21,7 @@ Based on the very real observation that [Meta runs internal leaderboards for emp
             │       ╱ "maximize adoption metrics"
             │      ╱
             │     ╱
-            │────╱──────────────
+            │────╱
             │    ╲
             │     ╲
             │      ╲
@@ -125,7 +125,7 @@ Pair with a token consumption leaderboard for maximum impact.
 
 > "A mouse-wiggler for the AI age! This is the type of quality content I need in my feed! ♥️"
 >
-> — Sebastian Walkotter, PhD
+> — [Sebastian Wallkötter](https://github.com/FirefoxMetzger), PhD
 
 ## Star This Repo
 
